@@ -7,18 +7,45 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		350C1AC52CD08F9D000657A8 /* Poppins-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 350C1AC42CD08F9D000657A8 /* Poppins-ExtraLightItalic.ttf */; };
+		3534D12E2CD264AF00E256FB /* Liquefier.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3534D12D2CD264AF00E256FB /* Liquefier.ttf */; };
 		35463DE12CB4E52500D4F549 /* UMaiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35463DE02CB4E52500D4F549 /* UMaiApp.swift */; };
 		35463DE32CB4E52500D4F549 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35463DE22CB4E52500D4F549 /* ContentView.swift */; };
 		35463DE52CB4E52600D4F549 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35463DE42CB4E52600D4F549 /* Assets.xcassets */; };
 		35463DE82CB4E52600D4F549 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35463DE72CB4E52600D4F549 /* Preview Assets.xcassets */; };
+		35463DF22CB4E80200D4F549 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35463DF12CB4E80200D4F549 /* HomeView.swift */; };
+		35463DF42CB4E81300D4F549 /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35463DF32CB4E81300D4F549 /* ListView.swift */; };
+		35463DF62CB4E82000D4F549 /* PersonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35463DF52CB4E82000D4F549 /* PersonView.swift */; };
+		355C37332CB8FB74000D38C4 /* restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 355C37322CB8FB74000D38C4 /* restaurant.swift */; };
+		35610D582CED7EB000936E04 /* CustomTabSwitcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35610D572CED7EB000936E04 /* CustomTabSwitcher.swift */; };
+		35610D5A2CED8A6700936E04 /* Connection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35610D592CED8A6700936E04 /* Connection.swift */; };
+		357395802CE5B724008C7BA2 /* DMSerifDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3573957E2CE5B724008C7BA2 /* DMSerifDisplay-Regular.ttf */; };
+		357395812CE5B724008C7BA2 /* DMSerifDisplay-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3573957F2CE5B724008C7BA2 /* DMSerifDisplay-Italic.ttf */; };
+		358049572CBE045200CAF11F /* Form.swift in Sources */ = {isa = PBXBuildFile; fileRef = 358049562CBE045200CAF11F /* Form.swift */; };
+		35A9527C2CEF0B4C0052B1EF /* ShareBTIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35A9527B2CEF0B4C0052B1EF /* ShareBTIView.swift */; };
+		35BF236B2CF033CB00F01106 /* BTICardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35BF236A2CF033CB00F01106 /* BTICardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		350C1AC42CD08F9D000657A8 /* Poppins-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Poppins-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		3534D12C2CD2605100E256FB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		3534D12D2CD264AF00E256FB /* Liquefier.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Liquefier.ttf; sourceTree = "<group>"; };
 		35463DDD2CB4E52500D4F549 /* UMai.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UMai.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		35463DE02CB4E52500D4F549 /* UMaiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UMaiApp.swift; sourceTree = "<group>"; };
 		35463DE22CB4E52500D4F549 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		35463DE42CB4E52600D4F549 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		35463DE72CB4E52600D4F549 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		35463DF12CB4E80200D4F549 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		35463DF32CB4E81300D4F549 /* ListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
+		35463DF52CB4E82000D4F549 /* PersonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PersonView.swift; sourceTree = "<group>"; };
+		355C37322CB8FB74000D38C4 /* restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = restaurant.swift; sourceTree = "<group>"; };
+		35610D572CED7EB000936E04 /* CustomTabSwitcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabSwitcher.swift; sourceTree = "<group>"; };
+		35610D592CED8A6700936E04 /* Connection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Connection.swift; sourceTree = "<group>"; };
+		3573957E2CE5B724008C7BA2 /* DMSerifDisplay-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSerifDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		3573957F2CE5B724008C7BA2 /* DMSerifDisplay-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSerifDisplay-Italic.ttf"; sourceTree = "<group>"; };
+		358049562CBE045200CAF11F /* Form.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Form.swift; sourceTree = "<group>"; };
+		35A9527B2CEF0B4C0052B1EF /* ShareBTIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShareBTIView.swift; sourceTree = "<group>"; };
+		35BF236A2CF033CB00F01106 /* BTICardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BTICardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +62,7 @@
 		35463DD42CB4E52500D4F549 = {
 			isa = PBXGroup;
 			children = (
+				35BF236A2CF033CB00F01106 /* BTICardView.swift */,
 				35463DDF2CB4E52500D4F549 /* UMai */,
 				35463DDE2CB4E52500D4F549 /* Products */,
 			);
@@ -51,10 +79,17 @@
 		35463DDF2CB4E52500D4F549 /* UMai */ = {
 			isa = PBXGroup;
 			children = (
+				355C37322CB8FB74000D38C4 /* restaurant.swift */,
+				354FA08B2CD33C9900ACC3BA /* Font */,
+				3534D12C2CD2605100E256FB /* Info.plist */,
+				35463DF02CB4E64E00D4F549 /* Sub */,
+				35463DEF2CB4E64500D4F549 /* Person */,
+				35463DEE2CB4E63600D4F549 /* Main */,
 				35463DE02CB4E52500D4F549 /* UMaiApp.swift */,
 				35463DE22CB4E52500D4F549 /* ContentView.swift */,
 				35463DE42CB4E52600D4F549 /* Assets.xcassets */,
 				35463DE62CB4E52600D4F549 /* Preview Content */,
+				35610D592CED8A6700936E04 /* Connection.swift */,
 			);
 			path = UMai;
 			sourceTree = "<group>";
@@ -65,6 +100,44 @@
 				35463DE72CB4E52600D4F549 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		35463DEE2CB4E63600D4F549 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				35463DF12CB4E80200D4F549 /* HomeView.swift */,
+				358049562CBE045200CAF11F /* Form.swift */,
+				35610D572CED7EB000936E04 /* CustomTabSwitcher.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		35463DEF2CB4E64500D4F549 /* Person */ = {
+			isa = PBXGroup;
+			children = (
+				35463DF52CB4E82000D4F549 /* PersonView.swift */,
+				35A9527B2CEF0B4C0052B1EF /* ShareBTIView.swift */,
+			);
+			path = Person;
+			sourceTree = "<group>";
+		};
+		35463DF02CB4E64E00D4F549 /* Sub */ = {
+			isa = PBXGroup;
+			children = (
+				35463DF32CB4E81300D4F549 /* ListView.swift */,
+			);
+			path = Sub;
+			sourceTree = "<group>";
+		};
+		354FA08B2CD33C9900ACC3BA /* Font */ = {
+			isa = PBXGroup;
+			children = (
+				3573957F2CE5B724008C7BA2 /* DMSerifDisplay-Italic.ttf */,
+				3573957E2CE5B724008C7BA2 /* DMSerifDisplay-Regular.ttf */,
+				350C1AC42CD08F9D000657A8 /* Poppins-ExtraLightItalic.ttf */,
+				3534D12D2CD264AF00E256FB /* Liquefier.ttf */,
+			);
+			path = Font;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +198,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				357395812CE5B724008C7BA2 /* DMSerifDisplay-Italic.ttf in Resources */,
+				357395802CE5B724008C7BA2 /* DMSerifDisplay-Regular.ttf in Resources */,
+				3534D12E2CD264AF00E256FB /* Liquefier.ttf in Resources */,
+				350C1AC52CD08F9D000657A8 /* Poppins-ExtraLightItalic.ttf in Resources */,
 				35463DE82CB4E52600D4F549 /* Preview Assets.xcassets in Resources */,
 				35463DE52CB4E52600D4F549 /* Assets.xcassets in Resources */,
 			);
@@ -137,6 +214,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				355C37332CB8FB74000D38C4 /* restaurant.swift in Sources */,
+				35610D5A2CED8A6700936E04 /* Connection.swift in Sources */,
+				35A9527C2CEF0B4C0052B1EF /* ShareBTIView.swift in Sources */,
+				358049572CBE045200CAF11F /* Form.swift in Sources */,
+				35463DF62CB4E82000D4F549 /* PersonView.swift in Sources */,
+				35463DF42CB4E81300D4F549 /* ListView.swift in Sources */,
+				35BF236B2CF033CB00F01106 /* BTICardView.swift in Sources */,
+				35463DF22CB4E80200D4F549 /* HomeView.swift in Sources */,
+				35610D582CED7EB000936E04 /* CustomTabSwitcher.swift in Sources */,
 				35463DE32CB4E52500D4F549 /* ContentView.swift in Sources */,
 				35463DE12CB4E52500D4F549 /* UMaiApp.swift in Sources */,
 			);
@@ -274,9 +360,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"UMai/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = UMai/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -302,9 +390,11 @@
 				DEVELOPMENT_ASSET_PATHS = "\"UMai/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = UMai/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
